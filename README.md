@@ -26,6 +26,6 @@ Run the script by -->
 
 python code_screenshot.py 
 
-       OR
+  OR
 	
 Directly running the code in VS CODE or other Code Editors
